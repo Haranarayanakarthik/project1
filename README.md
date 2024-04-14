@@ -1,1 +1,2 @@
-# project1
+# GearUpGarage
+## Using Bootstrap as framework
